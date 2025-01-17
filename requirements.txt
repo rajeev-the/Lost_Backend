@@ -50,7 +50,7 @@ platformdirs==4.1.0
 proglog==0.1.10
 protobuf==5.28.2
 pyarrow==17.0.0
-PyAudio==0.2.14
+
 pycparser==2.21
 pydeck==0.9.1
 Pygments==2.18.0
